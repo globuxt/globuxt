@@ -1,4 +1,4 @@
-## Hi there Globuxt is Here 👋
+## Hi there, Globuxt is Here 👋
 
 ### Welcome to Globuxt.
 
