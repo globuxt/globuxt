@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there Globuxt is Here 👋
+
+### Welcome to Globuxt.
+
+### Globuxt means - Global Leadership Organisation for Business Unification and Experience Transformation.
+
+#### Globuxt is a multinational technology company specialising in IT-related services for Business Unification and Experience Transformation for growth.
 
 <!--
 **globuxt/globuxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
